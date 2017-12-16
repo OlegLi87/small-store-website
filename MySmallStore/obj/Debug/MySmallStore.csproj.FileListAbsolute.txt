@@ -1,0 +1,103 @@
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\bin\ApplicationInsights.config
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\bin\roslyn\csc.exe
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\bin\roslyn\vbc.exe
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\bin\MySmallStore.dll.config
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\bin\MySmallStore.dll
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\bin\MySmallStore.pdb
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\bin\Microsoft.AI.Web.dll
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\bin\Microsoft.ApplicationInsights.dll
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\bin\System.Web.Helpers.dll
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\bin\System.Web.Mvc.dll
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\bin\System.Web.Razor.dll
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\bin\System.Web.Webpages.Deployment.dll
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\bin\System.Web.Webpages.dll
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\bin\System.Web.Webpages.Razor.dll
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\bin\Microsoft.AI.Web.xml
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\bin\Microsoft.ApplicationInsights.xml
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\bin\System.Web.Razor.xml
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\bin\System.Web.Webpages.xml
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\bin\System.Web.Webpages.Deployment.xml
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\bin\System.Web.Webpages.Razor.xml
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\bin\System.Web.Helpers.xml
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\bin\System.Web.Mvc.xml
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\obj\Debug\MySmallStore.dll
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\obj\Debug\MySmallStore.pdb
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\bin\EntityFramework.dll
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\bin\EntityFramework.SqlServer.dll
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\bin\EntityFramework.xml
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\bin\EntityFramework.SqlServer.xml
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\obj\Debug\MySmallStore.Migrations.v10.resources
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\obj\Debug\MySmallStore.csproj.GenerateResource.Cache
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\bin\ApplicationInsights.config
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\bin\roslyn\csc.exe
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\bin\roslyn\System.Collections.Immutable.dll
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\bin\roslyn\System.Reflection.Metadata.dll
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\bin\roslyn\vbc.exe
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\bin\roslyn\VBCSCompiler.exe
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\bin\roslyn\VBCSCompiler.exe.config
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\bin\MySmallStore.dll.config
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\bin\MySmallStore.dll
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\bin\MySmallStore.pdb
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\bin\EntityFramework.dll
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\bin\EntityFramework.SqlServer.dll
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\bin\Microsoft.AI.Agent.Intercept.dll
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\bin\Microsoft.AI.DependencyCollector.dll
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\bin\Microsoft.AI.Web.dll
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\bin\Microsoft.AI.WindowsServer.dll
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\bin\Microsoft.ApplicationInsights.dll
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\bin\Microsoft.Web.Infrastructure.dll
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\bin\System.Web.Helpers.dll
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\bin\System.Web.Mvc.dll
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\bin\System.Web.Razor.dll
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\bin\System.Web.Webpages.Deployment.dll
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\bin\System.Web.Webpages.dll
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\bin\System.Web.Webpages.Razor.dll
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\bin\EntityFramework.xml
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\bin\EntityFramework.SqlServer.xml
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\bin\Microsoft.AI.DependencyCollector.xml
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\bin\Microsoft.AI.Web.xml
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\bin\Microsoft.AI.WindowsServer.xml
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\bin\Microsoft.ApplicationInsights.xml
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\bin\System.Web.Razor.xml
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\bin\System.Web.Webpages.xml
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\bin\System.Web.Webpages.Deployment.xml
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\bin\System.Web.Webpages.Razor.xml
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\bin\System.Web.Helpers.xml
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\bin\System.Web.Mvc.xml
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\obj\Debug\MySmallStore.Migrations.v10.resources
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\obj\Debug\MySmallStore.csproj.GenerateResource.Cache
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\obj\Debug\MySmallStore.dll
+E:\My Programming\Web Development\MVC\MySmallStoreProject\MySmallStore\obj\Debug\MySmallStore.pdb
+C:\Users\micro\Desktop\MySmallStoreProject\MySmallStore\obj\Debug\MySmallStore.Migrations.v20_Logs_Table_Addded.resources

@@ -1,0 +1,27 @@
+﻿<link href="~/Content/PruductsPage_CSS.css" rel="stylesheet" />
+
+@model IEnumerable<MySmallStore.Models.Product>
+
+<table>
+    <tr>
+       <td style="padding-right:25px"><h2>Product Name</h2></td>
+       <td style="padding-right:25px"><h2>Price</h2></td>
+       <td style="padding-right:25px"><h2>Description</h2></td>
+       <td style="padding-right:15px"><h2>Active</h2></td>
+    </tr>
+  
+      @foreach (var product in Model)
+    {
+        <tr style="border:2px solid #646865">
+            <td style="padding-left:30px">@product.ProductName</td>
+            <td style="padding-left:10px">@product.Price $</td>
+            <td style="padding-left:10px">@product.Desc</td>
+            <td style="text-align:center"><input type="checkbox" @(product.Active ? "checked = \"checked\"" :"") disabled="disabled"/></td>
+            <td><a href="/Products/Edit/@product.ProductID" style="margin-right:18px"/>Edit</td>
+        </tr>
+    }
+</table>
+
+<a href="/Products/Create"><h1 style="color:#545462;text-decoration:none;margin-left:177px;">Create New Product</h1></a>
+
+

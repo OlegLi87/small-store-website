@@ -1,0 +1,36 @@
+﻿@model IEnumerable<MySmallStore.Models.Customer>
+
+@{
+    ViewBag.Title = "Customer Orders";
+}
+
+<h2>Index</h2>
+
+@foreach (var customer in Model)
+{
+    decimal sum = 0;
+
+    <div style="border:2px solid black;width:50%">
+    
+       @{var fullName = customer.FirstName + " " + customer.LastName;
+       
+       }       
+        <h1>@fullName</h1>
+       
+       @foreach (var order in customer.Orders)
+       {
+           var product = (ViewBag.Products as List<MySmallStore.Models.Product>)
+                 .Where(p => p.ProductID == order.ProductID).FirstOrDefault<MySmallStore.Models.Product>();
+
+           sum += product.Price;
+
+          <p>@product.ProductName<span>  @Html.ActionLink("Remove", "RemoveItem", "Orders", new {productID = product.ProductID,passport = customer.Passport},null)</span></p>        
+       }
+
+        <h3>Total Price is : <span>@sum</span>$</h3>
+ </div>
+}
+
+<div style="font-size:50px;text-decoration:none;font-family:PMingLiU-ExtB;width:20%;position:fixed;top:150px;left:70%">
+@Html.ActionLink("Add Order", "AddOrder", "Orders")
+</div>

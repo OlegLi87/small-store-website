@@ -1,0 +1,1 @@
+ASP MVC based small store project features most of the Asp MVC technology concepts.

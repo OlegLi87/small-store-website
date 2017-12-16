@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewBag.Title = "AddOrderSuccess";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using MySmallStore.Models;
+
+@{
+    Customer customer = ViewBag.customer as Customer;
+
+    string fullName = customer.FirstName + " " + customer.LastName;
+ 
+ }
+
+<br/><br/>
+<h1 style="color:#453939">New Order Was Added for : <span style="color:#d11313;font-size:35px;font-family:'Javanese Text'">@fullName</span></h1>
+

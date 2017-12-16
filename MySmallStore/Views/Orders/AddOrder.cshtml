@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewBag.Title = "AddOrder";
+}
+
+<h2>AddOrder</h2>
+
+@using (Html.BeginForm(FormMethod.Post))
+{
+   
+    @Html.AntiForgeryToken()
+
+    <label>Select Product</label>
+    @Html.DropDownList("productID", (ViewData["products"]) as List<SelectListItem>)
+
+    <br/><br/>
+
+    <label>Select Customer</label>
+    @Html.DropDownList("customerPassport", ViewData["customers"] as List<SelectListItem>)
+    
+    <br /><br />
+
+    <input type="Submit" value="Add Order"/>
+
+}
+
+
+
